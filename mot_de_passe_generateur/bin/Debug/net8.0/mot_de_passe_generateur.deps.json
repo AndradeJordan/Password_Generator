@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mot_de_passe_generateur/1.0.0": {
+        "runtime": {
+          "mot_de_passe_generateur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mot_de_passe_generateur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
